@@ -8,5 +8,6 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AssemblyName>WindowSizer</AssemblyName>
     <RootNamespace>WindowSizer</RootNamespace>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 </Project>
